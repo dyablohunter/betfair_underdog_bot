@@ -1,0 +1,23 @@
+{
+  "name": "underdog-martingale",
+  "version": "1.0.0",
+  "description": "Betfair Exchange Tennis Underdog Martingale",
+  "main": "bot.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "tennis",
+    "betfair",
+    "bot",
+    "underdog",
+    "martingale"
+  ],
+  "author": "Apetrei Brothers",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.4.7",
+    "ws": "^8.18.2"
+  }
+}
